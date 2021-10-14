@@ -7,6 +7,7 @@ clause added.
 ## Introduction
 
 I am good at something but not everything.
+When there is some conflict, we must solve it.
 
 ## Purpose
 
